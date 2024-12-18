@@ -30,6 +30,6 @@ TODO: Update the following links and remove this line.
 - Slides: [35.2.3 Big Step Operational Semantics.pptx](https://github.com/user-attachments/files/18189015/35.2.3.Big.Step.Operational.Semantics.pptx)
 - Script: [PPL Extra Credit Script  (1).pdf](https://github.com/user-attachments/files/18189064/PPL.Extra.Credit.Script.1.pdf)
 
-- YouTube: [https://youtu.be/TODO.](https://www.youtube.com/watch?v=31prcY01JKA](https://www.youtube.com/watch?v=31prcY01JKA&list=PLFNbBlDoHwn7H43FCfZqpgr1xgRmmYkkq&index=3)
+- YouTube: [video](https://www.youtube.com/watch?v=31prcY01JKA&list=PLFNbBlDoHwn7H43FCfZqpgr1xgRmmYkkq&index=3)
 - Recording: FILE AND AUDIO WAS TOO big
 <img width="168" alt="Screenshot 2024-12-18 at 2 54 32 PM" src="https://github.com/user-attachments/assets/1ec1fa18-e379-47b4-9884-b0ecad1f5a7e" />
