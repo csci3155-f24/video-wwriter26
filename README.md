@@ -4,24 +4,30 @@
 
 See [instructions.md](instructions.md) for submission instructions.
 
-# TODO: Replace this with Your Project Title
+# TODO: Big Step Semantics: Mutable State Concepts
 
 ## Description
 
-TOD: Replace this with at least a few paragraphs describing your project.
+For this project, we change the Small-Step Operational Semantics from review 35 into Big-Step Operational Semantics. For the first part of the project, we needed to explain what the judgement forms for Addr Value, Array Index Location, as well as the definition of memories were. In the video, we talk about why it’s necessary for addresses to be valid (mapping to a value v) and for memory lookups to retrieve the correct value in order to make Big Step evaluations. 
+
+We decided to go over the Mutable State: Describing Arrays section of the review because we felt like it was something that could really help me understand the topics covered in unit five. So then to make it something new and original, we described the big step semantics and how they were different from the small step.
+
+In the final step we went over the code execution of this big step implementation. Most of it used what was previously made in the review. However using the previous rules that we had made it was easy enough to translate it over to be big step. For instance changing from a mapFirstWith to a standard map function. There was also the concern of how to take care of the memory properly now that we had big step but this was all written out in our rules.
+
+
 ## Repository Organization
 
-TODO: Replace this with a description of the organization of your repository.
+Have the sections descriptions for mine, daniel's and saul's sections that describe what exactly we did. Then we have the video and the other sources that we used to record like slides.
 
 ## Building and Testing Instructions
 
-TODO: Replace with building and testing instructions. Please minimize the number of dependencies and as simple and platform-independent as possible. Consider, for example, using [Docker](https://www.docker.com/).
+Nothing to really test! just explaining big step mutable state concepts in the video.
 
 ## Presentation
 
 TODO: Update the following links and remove this line.
+- Slides: [35.2.3 Big Step Operational Semantics.pptx](https://github.com/user-attachments/files/18189015/35.2.3.Big.Step.Operational.Semantics.pptx)
+- Script: [PPL Extra Credit Script  (1).pdf](https://github.com/user-attachments/files/18189064/PPL.Extra.Credit.Script.1.pdf)
 
-- YouTube: https://youtu.be/TODO.
-- Script: [script.md](script.md) or [script.pdf](script.pdf).
-- Recording: [recording.mp4](recording.mp4).
-- Slides (if you use them in your recording): [slides.pdf](slides.pdf) and slide sources (e.g., [slides.pptx](slides.pptx) or [slides.key](slides.key)).
+- YouTube: [https://youtu.be/TODO.](https://www.youtube.com/watch?v=31prcY01JKA)
+- Recording: in a file on home repo
